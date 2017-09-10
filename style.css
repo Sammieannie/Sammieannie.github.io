@@ -1,0 +1,84 @@
+*{
+  color:white;
+}
+#sidebar {
+  float: left;
+  width: 20%;
+}
+#content {
+  float: left;
+  width: 80%;
+}
+h2{
+  color:#B8860B;
+  font-size:36px;
+  }
+h3{
+  color:#B8860B;
+  font-size:28px;
+  }
+h4{
+  color:#B8860B;
+  font-size:24px;
+  }
+p{
+  font:italic bold 14px sans-serif;
+  margin: 20px;
+  text-align: center;
+  }
+#MediaReview1 {
+  border:4px solid black;
+  padding: 24px;
+  }
+body{
+  background-attachment: fixed;
+  background-image: url("TransparentCastleBackground.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+.BookReviewQuote{
+  font-size:10px;
+  font-style: normal;
+  }
+#Pottermore{
+  width:600px;
+  height:300px;
+  }
+span{
+  font-style: italic;
+  color:yellow;
+  }
+p span{
+  font-size: 25px;
+  }
+a {
+  color:DarkGray;
+  }
+a:visited {
+  color:hotpink;
+  }
+#HufflepuffRow{
+  background-color: #E9AC2D;
+  }
+#RavenclawRow{
+  background-color: #082664;
+  }
+#GryffindorRow{
+  background-color: #7F0909;
+  }
+#SlytherinRow{
+  background-color: #0D2617;
+  }
+table, td, th {
+  border:1px solid black;
+  font-size: 40px;
+  }
+th{
+  padding: 10px;
+  background-color: lightgray;
+  }
+img{
+  display: block;
+  margin:auto;
+  }
